@@ -1,5 +1,3 @@
-[![build status](http://git.sigis.com.ve/fospuca/fospuca-nodejs-api/badges/master/build.svg)](http://git.sigis.com.ve/fospuca/fospuca-nodejs-api/commits/master)
-
 # zinli-backend
 
 Servicio nodejs para la app de prueba zinli-webapp.
