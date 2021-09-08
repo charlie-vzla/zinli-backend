@@ -1,0 +1,19 @@
+{
+	"welcome": "Welcome",
+	"user-200": "All ok",
+	"user-400": "You must confirm your email.",
+	"user-401": "Client Unauthorized",
+	"user-404": "Wrong username or password",
+	"user-create-201": "User created successfully",
+	"user-create-400": "User already exists",
+	"user-create-500": "Unexpected error trying to create user",
+	"user-update-404": "User does not exist",
+	"vehicle-200": "All ok",
+	"vehicle-create-400": "The conditions to create the vehicle are not met",
+	"vehicle-404": "Vehicle does not exist",
+	"vehicle-update-400": "Vehicle cannot be updated, conditions are not met.",
+	"user-create-200": "All ok",
+	"vehicle-500": "vehicle-500",
+	"vehicle-status-invalid": "New status is invalid",
+	"vehicle-status-block": "Vehicle status cannot be updated"
+}

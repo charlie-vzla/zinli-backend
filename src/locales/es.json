@@ -1,0 +1,20 @@
+{
+    "welcome": "Bienvenido",
+
+    "user-200": "Todo ok",
+    "user-400": "Debe confirmar su correo electrónico.",
+    "user-401": "Cliente no autorizado",
+    "user-404": "Usuario o contraseña incorrectos",
+    "user-create-201": "Usuario creado de manera exitosa",
+    "user-create-400": "El usuario ya existe",
+    "user-create-500": "Error inesperado al intentar crear el usuario",
+    "user-update-404": "El usuario no existe",
+
+    "vehicle-200": "Todo ok",
+    "vehicle-404": "Vehiculo no existe",
+    "vehicle-500": "Error inesperado",
+    "vehicle-create-400": "No se cumplen las condiciones para crear el vehiculo",
+    "vehicle-update-400": "No se puede actualizar vehiculo, no se cumplen las condiciones.",
+	"vehicle-status-invalid": "Nuevo status es invalido",
+	"vehicle-status-block": "El estatus del vehiculo no puede ser actualizado"
+}

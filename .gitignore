@@ -52,7 +52,7 @@ web_modules/
 .npm
 .ash_history
 .config/
-
+.js
 # Optional eslint cache
 .eslintcache
 
